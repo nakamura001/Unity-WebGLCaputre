@@ -1,2 +1,4 @@
 # Unity-WebGLCaputre
-Unity のWebGLビルドで画面キャプチャを行うサンプル
+Unity の WebGL ビルドで画面キャプチャを行うサンプル。
+
+[こちら](https://nakamura001.github.io/Unity-WebGLCaputre/)のページで動作確認できます。
