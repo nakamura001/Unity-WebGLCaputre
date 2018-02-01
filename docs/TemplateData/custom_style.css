@@ -1,0 +1,15 @@
+#captureContainer {
+	width: 240px;
+	height: 150px;
+	margin: 1em;
+	border: 0;
+}
+
+#capture {
+	border: 1px solid #000000;
+}
+
+.img_caption {
+	display: block;
+	text-align: center;
+}
